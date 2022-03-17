@@ -1,6 +1,5 @@
 <img src= './images/vanshitgupta.png' alt="HELLO I'M VANSHIT GUPTA.">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23711BF7&lines=Console.log(%22I+Am+A+Developer%22);cout%3C%3C%22I+Am+A+Programmer%22%3C%3Cendl;print(%22Improving+Bit+By+Bit.%22)&size=20&center=true&width=700">
     <img src="(https://readme-typing-svg.herokuapp.com?color=8233F7&lines=I+Am+Vanshit+Gupta;System.out.println(%22I+AM+A+PROGRAMMER))&size=20&center=true&width=700">
 </h1>
 
@@ -12,9 +11,8 @@
     </p>
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshitgupta9717&theme=radical">
-    </p>
-</p>
-</
+ </p>
+ </
 
 <h1 align="center"><strong>Contributions:</strong></h1>
 <img src = <div data-v-45a787d4 class="icon-player-wrap" style="min-width: 186px; height: 186px;"></div>>
@@ -23,6 +21,7 @@
 </p> 
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
+
 <p align="center">
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
@@ -66,7 +65,8 @@
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
-@ -69,4 +70,4 @@
+</h1>
+
 <hr>
 
 
