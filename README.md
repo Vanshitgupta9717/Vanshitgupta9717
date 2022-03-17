@@ -23,7 +23,39 @@
 </p> 
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
-@ -57,10 +58,10 @@
+<p align="center">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+  <a href="https://www.cplusplus.com/doc/tutorial/">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  </a>
+  <a href="https://html.com/">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/c-339933?&style=for-the-badge&logo=c&logoColor=white">
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
+  </a>
+    <img src="https://img.shields.io/badge/redux-000000?&style=for-the-badge&logo=Redux&logoColor=white">
+    <img src="https://img.shields.io/badge/python-00599C?&style=for-the-badge&logo=Python&logoColor=yellow">
+<br>
+    <img src="https://img.shields.io/badge/Bootstrap-A020F0?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/MySql-00599C?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/graphql-323330?style=for-the-badge&logo=graphql&logoColor=F7DF1E">
+</p>
+
+<br>
 
 <h1 align="center"> Get In Touch: </h1>
   <p align="center">
