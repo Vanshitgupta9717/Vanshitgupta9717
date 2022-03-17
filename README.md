@@ -17,7 +17,7 @@
 </
 
 <h1 align="center"><strong>Contributions:</strong></h1>
-<img src = <div data-v-45a787d4 class="icon-player-wrap" style="min-width: 186px; height: 186px;">…</div>>
+<img src = <div data-v-45a787d4 class="icon-player-wrap" style="min-width: 186px; height: 186px;"></div>>
 <p align="center">
     <img src= "https://activity-graph.herokuapp.com/graph?username=Vanshitgupta9717&theme=react-dark&hide_border=true">
 </p> 
