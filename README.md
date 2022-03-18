@@ -1,4 +1,4 @@
-<img src= './images/vanshitgupta.png' alt="HELLO I'M VANSHIT GUPTA.">
+<img src= './images/MY-NAME-TAG-PixTeller.png' alt="HELLO I'M VANSHIT GUPTA.">
 <h1 align="center">
     <img src="(https://readme-typing-svg.herokuapp.com?color=8233F7&lines=I+Am+Vanshit+Gupta;System.out.println(%22I+AM+A+PROGRAMMER))&size=20&center=true&width=700">
 </h1>
