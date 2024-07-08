@@ -2,7 +2,7 @@
 <img src= './images/MY-NAME-TAG-PixTeller.png' alt="I Am Vanshit Gupta.">
 <h1 align="center">
     
-<img src="https://readme-typing-svg.herokuapp.com?color=C050F7&background=3728FF00&center=true&vCenter=true&width=500&height=80&lines=System.out.println(%22I+AM+A+PROGRAMMER%22);System.out.print(%22IMPROVING+BIT+BY+BIT%22);Printf(%22I+AM+A+DEVELOPER%22)">
+<img src="https://readme-typing-svg.herokuapp.com?color=C050F7&background=3728FF00&center=true&vCenter=true&width=500&height=80&lines=Console.log(%22I+AM+A+PROGRAMMER%22);Cout<<(%22IMPROVING+BIT+BY+BIT%22);Printf(%22I+AM+A+DEVELOPER%22)">
 </h1>
 
 
